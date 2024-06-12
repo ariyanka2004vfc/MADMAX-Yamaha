@@ -1,0 +1,25 @@
+.fist{
+    background-color: rgb(66, 66, 241);
+    color: white;
+    font-weight: bolder;
+}
+.serrr{
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+}
+.driver{
+    color: rgb(0, 0, 0);
+    font-size: 3rem;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 0.5%;
+}
+.driver p{
+    text-decoration: underline blue;
+    text-underline-offset: 15px;
+}
+.caars{
+    display: flex;
+}

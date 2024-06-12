@@ -1,0 +1,32 @@
+#forms{
+    align-items: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#backs{
+    text-decoration: none;
+    color: white;
+}
+small{
+    color: rgb(255, 255, 255);
+}
+#pass{
+    font-weight: bolder;
+    font-size:large;
+    color: rgb(0, 255, 64);
+}
+#bgimg{
+    background: url(login.jpg);
+    background-size: cover;
+}
+#logon{
+    width: 15%;
+    height: 40%;
+}
+#checks{
+    font-size: small;
+}
+h1{
+    color: yellow;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
